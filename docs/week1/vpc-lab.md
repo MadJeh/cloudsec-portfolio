@@ -72,3 +72,16 @@ RANGE: 10.0.0.0/28
 ```
 **Screenshot**
 ![Subnets List](../../evidence/week1/vpc-subnets.png)
+
+## Key Learnings
+```bash
+- Custom VPC (instead of Auto) = better control of IP ranges and segmentation, reducing attack surface.
+- Subnet /28 limits the blast radius and organizes test environments.
+- Network inventory (`gcloud compute networks list`, `gcloud compute networks subnets list`) is the foundation of governance and auditing.
+```
+
+## Cleanup (if using personal/Free Tier account)
+```bash
+gcloud compute networks subnets delete labnet-sub --region=us-central1 -q
+gcloud compute networks delete labnet -q
+```

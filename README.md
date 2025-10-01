@@ -51,3 +51,7 @@ All labs are designed with **Always Free Tier services** and follow the **NIST C
 
 ✍️ **Author:** MadJeh  
 📌 Building skills one free-tier lab at a time.
+
+## Week 1
+- [VPC + Subnet Lab (Cloud Shell)](docs/week1/vpc-lab.md)
+week1: document VPC+Subnet lab with screenshots and cleanup

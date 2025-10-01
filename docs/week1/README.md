@@ -11,3 +11,5 @@
 ## Key Learnings
 - How to isolate a project for labs and protect against charges  
 - How audit logs are enabled by default in GCP  
+# Week 1
+- ✅ **Lab:** [Custom VPC + Subnet (Cloud Shell)](./vpc-lab.md)
