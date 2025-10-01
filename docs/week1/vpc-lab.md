@@ -18,7 +18,7 @@ SUBNET_MODE: CUSTOM
 BGP_ROUTING_MODE: REGIONAL
 ```
 **Screenshot**
-![VPC Created](../evidence/week1/vpc-create.png)
+![VPC Created](../../evidence/week1/vpc-create.png)
 
 ## Task 2 — Create Subnet
 
@@ -38,7 +38,7 @@ RANGE: 10.0.0.0/28
 STACK_TYPE: IPV4_ONLY
 ```
 **Screenshot**
-![VPC Created](../../evidence/week1/vpc-subnet.png)
+![Subnet Created](../../evidence/week1/vpc-subnet.png)
 
 ## Task 3 — View Networks
 
@@ -56,7 +56,7 @@ NAME: labnet
 SUBNET_MODE: CUSTOM
 ```
 **Screenshot**
-![VPC Created](../../evidence/week1/vpc-list.png)
+![Networks List](../../evidence/week1/vpc-list.png)
 
 ## Task 4 — List Subnets
 
@@ -71,4 +71,4 @@ REGION: us-central1
 RANGE: 10.0.0.0/28
 ```
 **Screenshot**
-![VPC Created](../../evidence/week1/vpc-subnets.png)
+![Subnets List](../../evidence/week1/vpc-subnets.png)
