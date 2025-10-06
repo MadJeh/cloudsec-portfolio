@@ -1,8 +1,9 @@
 # Week 1 — Project Bootstrap + Baseline Logs
 
 ## Labs
-- ✅ **Lab A:** [Project + Budget Setup](./labA-project-budget.md)
+- ✅ **Lab A:** [Cloud Shell + gcloud Basics](./labA-cloudshell-basics.md)
 - ✅ **Lab B:** [Baseline Logs Sanity Check](./labB-baseline-logs.md)
+- ✅ **Lab C:** [Custom VPC + Subnet (Cloud Shell)](./vpc-lab.md)
 
 
 ## Evidence
@@ -12,5 +13,4 @@
 ## Key Learnings
 - How to isolate a project for labs and protect against charges  
 - How audit logs are enabled by default in GCP  
-# Week 1
-- ✅ **Lab:** [Custom VPC + Subnet (Cloud Shell)](./vpc-lab.md)
+

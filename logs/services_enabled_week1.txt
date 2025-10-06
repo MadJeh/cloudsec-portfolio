@@ -1,5 +1,7 @@
 NAME: analyticshub.googleapis.com
 
+NAME: artifactregistry.googleapis.com
+
 NAME: bigquery.googleapis.com
 
 NAME: bigqueryconnection.googleapis.com
