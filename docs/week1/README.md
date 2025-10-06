@@ -1,8 +1,9 @@
 # Week 1 — Project Bootstrap + Baseline Logs
 
 ## Labs
-- ✅ Lab A: Project + Budget Setup
-- ✅ Lab B: Baseline Logs Sanity Check
+- ✅ **Lab A:** [Project + Budget Setup](./labA-project-budget.md)
+- ✅ **Lab B:** [Baseline Logs Sanity Check](./labB-baseline-logs.md)
+
 
 ## Evidence
 - Screenshots in `/evidence/week1/...`  
