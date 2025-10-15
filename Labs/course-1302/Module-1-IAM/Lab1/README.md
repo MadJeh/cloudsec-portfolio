@@ -19,7 +19,7 @@ As part of Cymbal Bank’s cloud migration, sensitive customer data stored in Fi
 
 This shows the IAM Roles section opened from the navigation menu.
 
-![Roles opened](./Screenshots/scheenshot1-Roles.png)
+![Roles opened](./Screenshots_Lab1/scheenshot1-Roles.png)
 
 ---
 
@@ -31,7 +31,7 @@ This screenshot displays the completed form for the custom role:
 - **Description:** Read-only access for Firebase audit team
 - **Launch Stage:** General Availability
 
-![Create Role dialog](./Screenshots/scheenshot2-RolesCreate.png)
+![Create Role dialog](./Screenshots_Lab1/scheenshot2-RolesCreate.png)
 
 ---
 
@@ -39,7 +39,7 @@ This screenshot displays the completed form for the custom role:
 
 Once the role was created, it appeared in the list of project roles.
 
-![Custom role listed](./Screenshots/scheenshot3-custonroleslisted.png)
+![Custom role listed](./Screenshots_Lab1/scheenshot3-custonroleslisted.png)
 
 ---
 
@@ -47,7 +47,7 @@ Once the role was created, it appeared in the list of project roles.
 
 The custom role `Audit Team Reviewer` was assigned to **Google Cloud Username 2** using IAM > Grant Access.
 
-![Audit Team Reviewer assigned](./Screenshots/scheenshot4-AuditTeamReviewer.png)
+![Audit Team Reviewer assigned](./Screenshots_Lab1/scheenshot4-AuditTeamReviewer.png)
 
 ---
 
@@ -55,7 +55,7 @@ The custom role `Audit Team Reviewer` was assigned to **Google Cloud Username 2*
 
 Using Policy Analyzer, we verified that the correct role was assigned to the intended principal.
 
-![Policy Analyzer results](./Screenshots/scheenshot5-policyanalyzerresults.png)
+![Policy Analyzer results](./Screenshots_Lab1/scheenshot5-policyanalyzerresults.png)
 
 ---
 
