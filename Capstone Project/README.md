@@ -3,9 +3,7 @@
 My final Google Cloud Security capstone simulates an **incident response and recovery** at Cymbal Bank after a data breach.  
 It covers vulnerability triage, remediation, firewall hardening, and compliance verification in **Google Cloud Security Command Center (SCC)**.
 
-👉 [Read the full Capstone Report](./Capstone_Project/README.md)
-
-📄 [Download the official report (Word format)](./Capstone_Project/Final_Report_Cymbal_Bank_ProjectCapstone.docx)
+👉 [Read the full Capstone Report](../Capstone_Project/Final_Report_Cymbal_Bank_ProjectCapstone.docx)
 
 ![Google Cloud Cybersecurity Certificate Badge](../Capstone_Project/google-cloud-cybersecurity-certificate.png)
 
