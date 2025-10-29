@@ -121,7 +121,25 @@ I successfully detected, contained, and remediated a simulated breach by:
 
 Cymbal Bank’s cloud infrastructure was restored to a secure, auditable, and compliant state — resilient against future misconfigurations or external threats.
 
-👉 [Read the full Capstone Report](../Capstone_Project/Final_Report_Cymbal_Bank_ProjectCapstone.docx)
+## 📄 Final Report
+
+You can **read the full Capstone report** directly below or open it in a new tab.
+
+<p align="center">
+  <a href="./Final_Report_Cymbal_Bank_ProjectCapstone.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="View PDF Report">
+  </a>
+</p>
+
+<details>
+<summary>📘 Click to preview the embedded PDF report</summary>
+
+<br>
+
+<iframe src="./Final_Report_Cymbal_Bank_ProjectCapstone.pdf" width="100%" height="600px">
+</iframe>
+
+</details>
 
 ---
 
