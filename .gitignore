@@ -1,11 +1,38 @@
-# Hide local-only folders from GitHub
+###############################################################################
+# 🌩️ CloudSec Portfolio — Git Ignore Configuration
+# Author: Jeferson Madureira (MadJeh)
+# Purpose: Maintain a clean public repository by excluding local-only data,
+#          private evidence, and temporary files from version control.
+###############################################################################
+
+# === Local-only folders (keep private, not synced to GitHub) ===
 logs/
 scripts/
 docs/
 evidence/
 
-# Ignore system or temp files
-.DS_Store
-Thumbs.db
-*.log
+# === Environment / system noise ===
+.DS_Store          # macOS file indexing
+Thumbs.db          # Windows thumbnail cache
+desktop.ini        # Windows folder settings
+
+# === Temporary or generated artifacts ===
 *.tmp
+*.log
+*.bak
+*.swp
+*.old
+
+# === Backup or editor caches ===
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# === Security precaution ===
+# Prevent accidentally committing sensitive credentials or keys
+*.key
+*.pem
+*.env
+.env.*
+secrets.*
