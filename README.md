@@ -95,7 +95,7 @@ All labs are mapped to the **NIST Cybersecurity Framework (CSF):**
 ## 📫 Connect
 
 👋 **Jeferson Madureira**  
-🔗 [LinkedIn](https://www.linkedin.com/in/jefersonmadureira)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jeferson-madureira-4a526a109/)  
 📧 madureira1985jeh@gmail.com  
 💻 [GitHub](https://github.com/MadJeh)
 
