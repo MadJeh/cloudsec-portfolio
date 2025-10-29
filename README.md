@@ -17,7 +17,7 @@ Key achievements:
 - Scanned and mitigated **Web Application vulnerabilities** using **Web Security Scanner**  
 - Documented remediation steps and validated compliance reports  
 
-📂 Folder: [`Labs/course-1302-identify-protect-labs`](./Labs/course-1302-identify-protect-labs)
+📂 Folder: [Labs/course-1302-identify-protect-labs](./Labs/course-1302-identify-protect-labs)
 
 ---
 
@@ -29,7 +29,8 @@ Key achievements:
 - Built an **Incident Response Playbook** based on Google’s best practices  
 - Developed queries to identify anomalous patterns in GCP audit logs  
 
-📂 Folder: [`Labs/course-1303-detection-response`](./Labs/course-1303-detection-response)
+📂 Folder: [Labs/course-1303-Detection-Response](./Labs/course-1303-Detection-Response)
+
 
 ---
 
@@ -75,6 +76,9 @@ Steps performed:
 **Google Cloud Cybersecurity Certificate**  
 Credential earned via Google Cloud Skills Boost.  
 This certification validates knowledge of **cloud threat mitigation**, **incident response**, and **security operations on GCP**.
+
+![Google Cloud Cybersecurity Badge](./docs/google-cybersecurity-badge.png)
+
 
 ---
 
