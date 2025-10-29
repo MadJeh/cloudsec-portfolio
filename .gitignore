@@ -1,0 +1,11 @@
+# Hide local-only folders from GitHub
+logs/
+scripts/
+docs/
+evidence/
+
+# Ignore system or temp files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
